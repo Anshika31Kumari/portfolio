@@ -84,7 +84,7 @@ To contribute to meaningful software development and AI/ML projects, apply my te
 
 ## Connect With Me
 
-* **GitHub:** [Anshika31Kumari](https://github.com/Anshika31Kumari)
+* **GitHub:** https://github.com/Anshika31Kumari
 * **LinkedIn:** www.linkedin.com/in/anshika-kumari-434407232
 * **Email:** anshikakumari3108@gmail.com
 
